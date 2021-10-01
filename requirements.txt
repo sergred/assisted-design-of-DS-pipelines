@@ -1,0 +1,13 @@
+dabl==0.2.2
+pandas==1.2.4
+redbaron==0.9.2
+baron==0.9
+dill==0.3.4
+networkx==2.5
+openml==0.12.2
+nds==0.4.1
+pybktree==1.1
+scipy==1.7.0
+auto_sklearn==0.13.0
+numpy==1.20.1
+scikit_learn==1.0
