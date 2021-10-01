@@ -1,0 +1,20 @@
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - python =3.8
+  - pip
+  - dabl =0.2
+  - pandas =1.2
+  - dill =0.3
+  - networkx =2.5
+  - openml =0.12
+  - pybktree =1.1
+  - scipy =1.7
+  - numpy =1.20
+  - pip:
+    - baron==0.9
+    - redbaron==0.9
+    - scikit_learn==0.24
+    - auto_sklearn==0.13
+    - git+https://github.com/KernelA/nds-py.git
