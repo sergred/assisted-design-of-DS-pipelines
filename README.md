@@ -3,7 +3,7 @@
 This repository is structured as follows:
 
 ```
-scripts/                    <-- supporting scripts to populate the information about DS experiments from OpenML
+scripts/                    <-- supporting scripts to populate the DS experiments from OpenML
 Snakefile                   <-- an automation script to populate the data
 data_summarizer.py          <-- main code for lightweight data footprints
 demo.py                     <-- prototype demonstration
